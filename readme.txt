@@ -8,4 +8,4 @@
 
 A slightly more advanced restAPI written in Go for a task "to do" application. 
 
-**Just the Go source files. Full workspace commimg soon**
+**Just the Go source files. Full workspace comimg soon**
