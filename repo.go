@@ -1,5 +1,5 @@
 // This is a BAD substitute for a Database
-// It is just for quick tesing. 
+// It is just for quick testing. 
 
 package main 
 
