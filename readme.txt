@@ -6,6 +6,8 @@
 |_|  \___||___/\__\_| |_/\_|    \___/  |_|_| |_|  \____/\___/ 
 
 
-A slightly more advanced restAPI written in Go for a task "to do" application. 
+A slightly more advanced restAPI written in Go for a task "to do" application.
+
+Be sure to run the ```$ go get``` command to retrieve the Gorilla Mux package from Github
 
 **Just the Go source files. Full workspace comimg soon**
