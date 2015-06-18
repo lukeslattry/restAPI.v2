@@ -10,4 +10,6 @@ A slightly more advanced restAPI written in Go for a task "to do" application.
 
 Be sure to run the ```$ go get``` command to retrieve the Gorilla Mux package from Github
 
-**Just the Go source files. Full workspace comimg soon**
+**Just the Go source files. A shell file test.sh to test response**
+
+**CURRENTLY NOT WORKING**

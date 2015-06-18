@@ -2,7 +2,7 @@ package main
 
 import (
 	"net/http"
-	"github.com/gorzilla/mux"
+	"github.com/gorilla/mux"
 )
 
 func NewRouter() *mux.Router {

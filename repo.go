@@ -17,7 +17,7 @@ func init() {
 
 
 func RepoFindTodo( id int ) Todo {
-	for_, t := range todos {
+	for _, t := range todos {
 		if t.Id == id {
 			return t
 		}

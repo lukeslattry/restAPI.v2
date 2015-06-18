@@ -9,4 +9,4 @@ type Todo struct {
 	Due         time.Time   `json: "due"`
 }
 
-tyoe Todo []Todo
+type Todo []Todo

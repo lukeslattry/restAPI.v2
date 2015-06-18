@@ -2,7 +2,6 @@ package main
 
 import (
 	"net/http"
-	"github.com/gorilla/mux"
 )
 
 type Route struct {
@@ -38,5 +37,5 @@ var routes = Routes {
 		"POST",
 		"/todos",
 		TodoCreate,
-	}
+	},
 }
